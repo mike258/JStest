@@ -1,2 +1,0 @@
-# JStest
-JSTest
